@@ -1,3 +1,32 @@
+## EJECUCIÓN DE PRUEBA TÉCNICA
+
+### Requisitos Previos
+- **Python 3.8 o superior**
+- No se requieren dependencias externas (solo librería estándar)
+
+### Paso 1: Clonar o Descargar el Proyecto
+```bash
+git clone https://github.com/AndreGarciaC/POLCOMP-Technical-Evaluation
+cd orders_enrichment_pipeline
+```
+### Paso 2: Preparar los Datos de Entrada
+Colocar los archivos JSON en el directorio data/raw/:
+# Asegúrate de que tienes estos archivos:
+```bash
+data/raw/users.json
+data/raw/products.json
+data/raw/orders.json
+```
+### Paso 3: Ejecutar el Pipeline
+```bash
+python src/main.py
+```
+### Paso 4: Verificar los Resultados
+# Ver el archivo generado
+```bash
+cat data/output/enriched_orders.json
+```
+
 # Prueba Técnica: DESARROLLADOR DEL DEPARTAMENTO DE INNOVACIÓN Y TECNOLOGÍA
 
 ## 1. Contexto del Negocio
