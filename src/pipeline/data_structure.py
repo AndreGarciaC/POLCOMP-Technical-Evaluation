@@ -46,5 +46,6 @@ class EnrichedOrder:
     unit_price: float
     total_price: float
     transaction_date: str
+    order_valid: bool
     # Campo extra
     observations: list[str] = field(default_factory=list)

@@ -83,6 +83,12 @@ def process_orders(orders_raw: List[dict], users_map: Dict[str, User], products_
         # Total
         total_price = round(product.price * qty, 2)
 
+        # Validez de la orden
+        if not flags:
+            is_valid = True
+        else:
+            is_valid = False
+
         # Golden record
         record = EnrichedOrder(
             order_id=order_data['order_id'],
@@ -95,6 +101,7 @@ def process_orders(orders_raw: List[dict], users_map: Dict[str, User], products_
             unit_price=product.price,
             total_price=total_price,
             transaction_date=order_data.get('timestamp'),
+            order_valid=is_valid,
             observations=flags
         )
         

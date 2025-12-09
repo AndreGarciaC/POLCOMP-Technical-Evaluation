@@ -709,3 +709,23 @@ NameError: name 'price' is not defined. Did you mean: 'print'?
 2025-12-09 04:42:27 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
 2025-12-09 04:42:27 - Orders_Pipeline - INFO - Completado: save_json en 0.0021 segundos
 2025-12-09 04:42:27 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Completado: load_json en 0.0004 segundos
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 05:30:33 - Orders_Pipeline - WARNING - Producto p103 tiene precio 0.0
+2025-12-09 05:30:33 - Orders_Pipeline - WARNING - Producto p104 tiene precio 0.0
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0011 segundos
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 05:30:33 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 05:30:33 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Completado: process_orders en 0.0004 segundos
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - Completado: save_json en 0.0010 segundos
+2025-12-09 05:30:33 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
