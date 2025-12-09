@@ -1,0 +1,9 @@
+[
+  {"order_id": "o500", "user_id": "u1", "product_id": "p100", "qty": 1, "timestamp": "2023-10-27T10:00:00"},
+  {"order_id": "o501", "user_id": "u2", "product_id": "p101", "qty": 2, "timestamp": "2023-10-27T11:30:00"},
+  {"order_id": "o502", "user_id": "u99", "product_id": "p100", "qty": 1, "timestamp": "2023-10-27T12:00:00"}, 
+  {"order_id": "o503", "user_id": "u3", "product_id": "p102", "qty": null, "timestamp": "2023-10-27T13:00:00"}, 
+  {"order_id": "o504", "user_id": "u4", "product_id": "p999", "qty": 1, "timestamp": "2023-10-27T14:00:00"}, 
+  {"order_id": "o503", "user_id": "u3", "product_id": "p102", "qty": 3, "timestamp": "2023-10-27T13:00:01"}, 
+  {"order_id": "o505", "user_id": "u5", "product_id": "p104", "qty": 5, "timestamp": "2023-10-27T15:00:00"}
+]

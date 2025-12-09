@@ -1,0 +1,7 @@
+[
+  {"id": "p100", "name": "Laptop Pro", "category": "Electronics", "price": 1200.00, "stock": 50, "supplier_id_internal": 778},
+  {"id": "p101", "name": "Wireless Mouse", "category": "Electronics", "price": "25.50", "stock": 200, "supplier_id_internal": 779},
+  {"id": "p102", "name": "Coffee Mug", "category": "Home", "price": 15.00, "stock": 100, "supplier_id_internal": 780},
+  {"id": "p103", "name": "Book: Data Eng.", "category": "Books", "price": null, "stock": 500, "supplier_id_internal": 781},
+  {"id": "p104", "name": "T-Shirt Promo", "category": "Apparel", "price": 0.00, "stock": 0, "supplier_id_internal": 782}
+]

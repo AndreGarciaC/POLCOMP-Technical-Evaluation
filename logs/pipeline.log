@@ -1,0 +1,711 @@
+2025-12-09 02:00:10,487 - Orders_Pipeline - INFO - === Iniciando Pipeline de Enriquecimiento ===
+2025-12-09 02:00:10,487 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:00:10,495 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0075 segundos
+2025-12-09 02:00:10,495 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:00:10,504 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0075 segundos
+2025-12-09 02:00:10,504 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:00:10,510 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0061 segundos
+2025-12-09 02:00:10,510 - Orders_Pipeline - INFO - Iniciando proceso: build_lookup_tables
+2025-12-09 02:00:10,510 - Orders_Pipeline - INFO - Finalizado proceso: build_lookup_tables en 0.0000 segundos
+2025-12-09 02:00:10,510 - Orders_Pipeline - INFO - Iniciando proceso: process_orders
+2025-12-09 02:00:10,510 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 02:00:10,510 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 02:00:10,511 - Orders_Pipeline - INFO - Finalizado proceso: process_orders en 0.0015 segundos
+2025-12-09 02:00:10,511 - Orders_Pipeline - INFO - Iniciando proceso: save_json
+2025-12-09 02:00:10,512 - Orders_Pipeline - INFO - Archivo guardado exitosamente: data/output/enriched_orders.json
+2025-12-09 02:00:10,512 - Orders_Pipeline - INFO - Finalizado proceso: save_json en 0.0010 segundos
+2025-12-09 02:00:10,512 - Orders_Pipeline - INFO - === Pipeline finalizado con �xito ===
+2025-12-09 02:45:42,585 - Orders_Pipeline - INFO - === Iniciando Pipeline de Enriquecimiento ===
+2025-12-09 02:45:42,586 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 02:45:42,586 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:45:42,587 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0010 segundos
+2025-12-09 02:45:42,587 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:45:42,587 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0000 segundos
+2025-12-09 02:45:42,587 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:45:42,588 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0010 segundos
+2025-12-09 02:45:42,589 - Orders_Pipeline - INFO - Iniciando proceso: build_lookup_tables
+2025-12-09 02:45:42,589 - Orders_Pipeline - INFO - Finalizado proceso: build_lookup_tables en 0.0000 segundos
+2025-12-09 02:45:42,589 - Orders_Pipeline - INFO - Iniciando proceso: process_orders
+2025-12-09 02:45:42,589 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 02:45:42,589 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 02:45:42,589 - Orders_Pipeline - INFO - Finalizado proceso: process_orders en 0.0000 segundos
+2025-12-09 02:45:42,589 - Orders_Pipeline - INFO - Iniciando proceso: save_json
+2025-12-09 02:45:42,590 - Orders_Pipeline - INFO - Archivo guardado exitosamente: data/output/enriched_orders.json
+2025-12-09 02:45:42,591 - Orders_Pipeline - INFO - Finalizado proceso: save_json en 0.0020 segundos
+2025-12-09 02:45:42,591 - Orders_Pipeline - INFO - === Pipeline finalizado con �xito ===
+2025-12-09 02:46:06,780 - Orders_Pipeline - INFO - === Iniciando Pipeline de Enriquecimiento ===
+2025-12-09 02:46:06,780 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 02:46:06,780 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:46:06,781 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0010 segundos
+2025-12-09 02:46:06,781 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:46:06,781 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0000 segundos
+2025-12-09 02:46:06,781 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:46:06,781 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0000 segundos
+2025-12-09 02:46:06,781 - Orders_Pipeline - INFO - Iniciando proceso: build_lookup_tables
+2025-12-09 02:46:06,781 - Orders_Pipeline - INFO - Finalizado proceso: build_lookup_tables en 0.0000 segundos
+2025-12-09 02:46:06,781 - Orders_Pipeline - INFO - Iniciando proceso: process_orders
+2025-12-09 02:46:06,783 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 02:46:06,783 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 02:46:06,783 - Orders_Pipeline - INFO - Finalizado proceso: process_orders en 0.0000 segundos
+2025-12-09 02:46:06,783 - Orders_Pipeline - INFO - Iniciando proceso: save_json
+2025-12-09 02:46:06,783 - Orders_Pipeline - INFO - Archivo guardado exitosamente: data/output/enriched_orders.json
+2025-12-09 02:46:06,786 - Orders_Pipeline - INFO - Finalizado proceso: save_json en 0.0030 segundos
+2025-12-09 02:46:06,786 - Orders_Pipeline - INFO - === Pipeline finalizado con �xito ===
+2025-12-09 02:46:23,307 - Orders_Pipeline - INFO - === Iniciando Pipeline de Enriquecimiento ===
+2025-12-09 02:46:23,307 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 02:46:23,308 - Orders_Pipeline - ERROR - Archivo json faltante: C:\Users\Asus\OneDrive\OneDrive - Hoster�a Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\raw\products.json
+2025-12-09 02:46:23,308 - Orders_Pipeline - ERROR - Cargue los archivos correctos en C:\Users\Asus\OneDrive\OneDrive - Hoster�a Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\raw
+2025-12-09 02:46:23,308 - Orders_Pipeline - CRITICAL - Fallo en validaci�n de archivos.
+2025-12-09 02:46:44,208 - Orders_Pipeline - INFO - === Iniciando Pipeline de Enriquecimiento ===
+2025-12-09 02:46:44,208 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 02:46:44,209 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:46:44,209 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0000 segundos
+2025-12-09 02:46:44,210 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:46:44,210 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0000 segundos
+2025-12-09 02:46:44,210 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:46:44,211 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0010 segundos
+2025-12-09 02:46:44,211 - Orders_Pipeline - INFO - Iniciando proceso: build_lookup_tables
+2025-12-09 02:46:44,211 - Orders_Pipeline - INFO - Finalizado proceso: build_lookup_tables en 0.0000 segundos
+2025-12-09 02:46:44,211 - Orders_Pipeline - INFO - Iniciando proceso: process_orders
+2025-12-09 02:46:44,211 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 02:46:44,211 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 02:46:44,213 - Orders_Pipeline - INFO - Finalizado proceso: process_orders en 0.0013 segundos
+2025-12-09 02:46:44,213 - Orders_Pipeline - INFO - Iniciando proceso: save_json
+2025-12-09 02:46:44,214 - Orders_Pipeline - INFO - Archivo guardado exitosamente: data/output/enriched_orders.json
+2025-12-09 02:46:44,214 - Orders_Pipeline - INFO - Finalizado proceso: save_json en 0.0010 segundos
+2025-12-09 02:46:44,214 - Orders_Pipeline - INFO - === Pipeline finalizado con �xito ===
+2025-12-09 02:48:13,704 - Orders_Pipeline - INFO - === Iniciando Pipeline de Enriquecimiento ===
+2025-12-09 02:48:13,704 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 02:48:13,705 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:48:13,705 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0000 segundos
+2025-12-09 02:48:13,706 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:48:13,706 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0000 segundos
+2025-12-09 02:48:13,706 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:48:13,707 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0010 segundos
+2025-12-09 02:48:13,707 - Orders_Pipeline - INFO - Iniciando proceso: build_lookup_tables
+2025-12-09 02:48:13,707 - Orders_Pipeline - INFO - Finalizado proceso: build_lookup_tables en 0.0000 segundos
+2025-12-09 02:48:13,707 - Orders_Pipeline - INFO - Iniciando proceso: process_orders
+2025-12-09 02:48:13,707 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 02:48:13,707 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 02:48:13,708 - Orders_Pipeline - INFO - Finalizado proceso: process_orders en 0.0010 segundos
+2025-12-09 02:48:13,708 - Orders_Pipeline - INFO - Iniciando proceso: save_json
+2025-12-09 02:48:13,708 - Orders_Pipeline - INFO - Archivo guardado exitosamente: data/output/enriched_orders.json
+2025-12-09 02:48:13,710 - Orders_Pipeline - INFO - Finalizado proceso: save_json en 0.0020 segundos
+2025-12-09 02:48:13,710 - Orders_Pipeline - INFO - === Pipeline finalizado con �xito ===
+2025-12-09 02:50:24,586 - Orders_Pipeline - INFO - === Iniciando Pipeline de Enriquecimiento ===
+2025-12-09 02:50:24,587 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 02:50:24,587 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:50:24,588 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0000 segundos
+2025-12-09 02:50:24,588 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:50:24,589 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0010 segundos
+2025-12-09 02:50:24,589 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:50:24,589 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0000 segundos
+2025-12-09 02:50:24,589 - Orders_Pipeline - INFO - Iniciando proceso: build_lookup_tables
+2025-12-09 02:50:24,589 - Orders_Pipeline - INFO - Finalizado proceso: build_lookup_tables en 0.0000 segundos
+2025-12-09 02:50:24,590 - Orders_Pipeline - INFO - Iniciando proceso: process_orders
+2025-12-09 02:50:24,590 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 02:50:24,590 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 02:50:24,590 - Orders_Pipeline - INFO - Finalizado proceso: process_orders en 0.0000 segundos
+2025-12-09 02:50:24,591 - Orders_Pipeline - INFO - Iniciando proceso: save_json
+2025-12-09 02:50:24,592 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hoster�a Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 02:50:24,592 - Orders_Pipeline - INFO - Finalizado proceso: save_json en 0.0010 segundos
+2025-12-09 02:50:24,592 - Orders_Pipeline - INFO - === Pipeline finalizado con �xito ===
+2025-12-09 02:50:37,796 - Orders_Pipeline - INFO - === Iniciando Pipeline de Enriquecimiento ===
+2025-12-09 02:50:37,796 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 02:50:37,797 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:50:37,797 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0000 segundos
+2025-12-09 02:50:37,797 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:50:37,798 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0000 segundos
+2025-12-09 02:50:37,798 - Orders_Pipeline - INFO - Iniciando proceso: load_json
+2025-12-09 02:50:37,799 - Orders_Pipeline - INFO - Finalizado proceso: load_json en 0.0010 segundos
+2025-12-09 02:50:37,799 - Orders_Pipeline - INFO - Iniciando proceso: build_lookup_tables
+2025-12-09 02:50:37,799 - Orders_Pipeline - INFO - Finalizado proceso: build_lookup_tables en 0.0000 segundos
+2025-12-09 02:50:37,799 - Orders_Pipeline - INFO - Iniciando proceso: process_orders
+2025-12-09 02:50:37,799 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 02:50:37,799 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 02:50:37,799 - Orders_Pipeline - INFO - Finalizado proceso: process_orders en 0.0000 segundos
+2025-12-09 02:50:37,800 - Orders_Pipeline - INFO - Iniciando proceso: save_json
+2025-12-09 02:50:37,801 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hoster�a Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 02:50:37,802 - Orders_Pipeline - INFO - Finalizado proceso: save_json en 0.0020 segundos
+2025-12-09 02:50:37,802 - Orders_Pipeline - INFO - === Pipeline finalizado con �xito ===
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - 🚀 Iniciando: load_json
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - ✅ Completado: load_json en 0.0003 segundos
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - 🚀 Iniciando: load_json
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - ✅ Completado: load_json en 0.0002 segundos
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - 🚀 Iniciando: load_json
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - ✅ Completado: load_json en 0.0002 segundos
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - 🚀 Iniciando: build_lookup_tables
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - ✅ Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - 🚀 Iniciando: process_orders
+2025-12-09 03:13:58 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:13:58 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - ✅ Completado: process_orders en 0.0006 segundos
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - 🚀 Iniciando: save_json
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - ✅ Completado: save_json en 0.0009 segundos
+2025-12-09 03:13:58 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:24:22 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:24:22 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Completado: process_orders en 0.0007 segundos
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - Completado: save_json en 0.0020 segundos
+2025-12-09 03:24:22 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:24:41 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:24:41 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Completado: process_orders en 0.0002 segundos
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - Completado: save_json en 0.0034 segundos
+2025-12-09 03:24:41 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:24:44 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:24:44 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Completado: process_orders en 0.0004 segundos
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Completado: save_json en 0.0009 segundos
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:24:44 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:24:44 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Completado: process_orders en 0.0007 segundos
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - Completado: save_json en 0.0007 segundos
+2025-12-09 03:24:44 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:24:45 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:24:45 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Completado: process_orders en 0.0002 segundos
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Completado: save_json en 0.0007 segundos
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:24:45 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:24:45 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Completado: process_orders en 0.0003 segundos
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - Completado: save_json en 0.0007 segundos
+2025-12-09 03:24:45 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:24:46 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:24:46 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Completado: process_orders en 0.0002 segundos
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Completado: save_json en 0.0008 segundos
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:46 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:24:47 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:24:47 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Completado: process_orders en 0.0005 segundos
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Completado: save_json en 0.0037 segundos
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:24:47 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:24:47 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Completado: process_orders en 0.0005 segundos
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - Completado: save_json en 0.0010 segundos
+2025-12-09 03:24:47 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:24:48 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:24:48 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Completado: process_orders en 0.0002 segundos
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - Completado: save_json en 0.0007 segundos
+2025-12-09 03:24:48 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:33:13 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:33:13 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Completado: process_orders en 0.0004 segundos
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - Completado: save_json en 0.0012 segundos
+2025-12-09 03:33:13 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Completado: load_json en 0.0003 segundos
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:36:07 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:36:07 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Completado: process_orders en 0.0004 segundos
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - Completado: save_json en 0.0018 segundos
+2025-12-09 03:36:07 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0000 segundos
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:37:12 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 03:37:12 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Completado: process_orders en 0.0018 segundos
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - Completado: save_json en 0.0016 segundos
+2025-12-09 03:37:12 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 03:50:08 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:50:08 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:50:08 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:50:08 - Orders_Pipeline - INFO - Completado: load_json en 0.0003 segundos
+2025-12-09 03:50:08 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:50:08 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:50:08 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:50:08 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:50:08 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:50:08 - Orders_Pipeline - ERROR - Falló: build_lookup_tables después de 0.0000 segundos. Error: User.__init__() missing 1 required positional argument: 'email'
+Traceback (most recent call last):
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\log_setup.py", line 81, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\enrich.py", line 23, in build_lookup_tables
+    users_map[u['id']] = User(
+                         ^^^^^
+TypeError: User.__init__() missing 1 required positional argument: 'email'
+2025-12-09 03:50:08 - Orders_Pipeline - CRITICAL - El pipeline falló de forma crítica y se detuvo: User.__init__() missing 1 required positional argument: 'email'
+2025-12-09 03:52:35 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:52:35 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:52:35 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:52:35 - Orders_Pipeline - INFO - Completado: load_json en 0.0003 segundos
+2025-12-09 03:52:35 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:52:35 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:52:35 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:52:35 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:52:35 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:52:35 - Orders_Pipeline - WARNING - Producto p103 tiene precio 0.0
+2025-12-09 03:52:35 - Orders_Pipeline - WARNING - Producto p104 tiene precio 0.0
+2025-12-09 03:52:35 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0005 segundos
+2025-12-09 03:52:35 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:52:35 - Orders_Pipeline - ERROR - Falló: process_orders después de 0.0000 segundos. Error: EnrichedOrder.__init__() got an unexpected keyword argument 'product_category'
+Traceback (most recent call last):
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\log_setup.py", line 81, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\enrich.py", line 82, in process_orders
+    record = EnrichedOrder(
+             ^^^^^^^^^^^^^^
+TypeError: EnrichedOrder.__init__() got an unexpected keyword argument 'product_category'
+2025-12-09 03:52:35 - Orders_Pipeline - CRITICAL - El pipeline falló de forma crítica y se detuvo: EnrichedOrder.__init__() got an unexpected keyword argument 'product_category'
+2025-12-09 03:53:28 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:53:28 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:53:28 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:53:28 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:53:28 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:53:28 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:53:28 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:53:28 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:53:28 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:53:28 - Orders_Pipeline - WARNING - Producto p103 tiene precio 0.0
+2025-12-09 03:53:28 - Orders_Pipeline - WARNING - Producto p104 tiene precio 0.0
+2025-12-09 03:53:28 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0007 segundos
+2025-12-09 03:53:28 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:53:28 - Orders_Pipeline - ERROR - Falló: process_orders después de 0.0000 segundos. Error: EnrichedOrder.__init__() got an unexpected keyword argument 'product_category'
+Traceback (most recent call last):
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\log_setup.py", line 81, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\enrich.py", line 82, in process_orders
+    record = EnrichedOrder(
+             ^^^^^^^^^^^^^^
+TypeError: EnrichedOrder.__init__() got an unexpected keyword argument 'product_category'
+2025-12-09 03:53:28 - Orders_Pipeline - CRITICAL - El pipeline falló de forma crítica y se detuvo: EnrichedOrder.__init__() got an unexpected keyword argument 'product_category'
+2025-12-09 03:54:03 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:54:03 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:54:03 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:54:03 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:54:03 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:54:03 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:54:03 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:54:03 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:54:03 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:54:03 - Orders_Pipeline - ERROR - Falló: build_lookup_tables después de 0.0000 segundos. Error: Product.__init__() got an unexpected keyword argument 'category'
+Traceback (most recent call last):
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\log_setup.py", line 81, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\enrich.py", line 37, in build_lookup_tables
+    products_map[p['id']] = Product(
+                            ^^^^^^^^
+TypeError: Product.__init__() got an unexpected keyword argument 'category'
+2025-12-09 03:54:03 - Orders_Pipeline - CRITICAL - El pipeline falló de forma crítica y se detuvo: Product.__init__() got an unexpected keyword argument 'category'
+2025-12-09 03:54:30 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:54:30 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:54:30 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:54:30 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:54:30 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:54:30 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:54:30 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:54:30 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:54:30 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:54:30 - Orders_Pipeline - ERROR - Falló: build_lookup_tables después de 0.0000 segundos. Error: Product.__init__() got an unexpected keyword argument 'category'
+Traceback (most recent call last):
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\log_setup.py", line 81, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\enrich.py", line 37, in build_lookup_tables
+    products_map[p['id']] = Product(
+                            ^^^^^^^^
+TypeError: Product.__init__() got an unexpected keyword argument 'category'
+2025-12-09 03:54:30 - Orders_Pipeline - CRITICAL - El pipeline falló de forma crítica y se detuvo: Product.__init__() got an unexpected keyword argument 'category'
+2025-12-09 03:55:00 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:55:00 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:55:00 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:55:00 - Orders_Pipeline - INFO - Completado: load_json en 0.0003 segundos
+2025-12-09 03:55:00 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:55:00 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:55:00 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:55:00 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:55:00 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:55:00 - Orders_Pipeline - WARNING - Producto p103 tiene precio 0.0
+2025-12-09 03:55:00 - Orders_Pipeline - WARNING - Producto p104 tiene precio 0.0
+2025-12-09 03:55:00 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0004 segundos
+2025-12-09 03:55:00 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:55:00 - Orders_Pipeline - ERROR - Falló: process_orders después de 0.0000 segundos. Error: 'Product' object has no attribute 'category'
+Traceback (most recent call last):
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\log_setup.py", line 81, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\enrich.py", line 88, in process_orders
+    product_category=product.category,
+                     ^^^^^^^^^^^^^^^^
+AttributeError: 'Product' object has no attribute 'category'
+2025-12-09 03:55:00 - Orders_Pipeline - CRITICAL - El pipeline falló de forma crítica y se detuvo: 'Product' object has no attribute 'category'
+2025-12-09 03:55:35 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:55:35 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:55:35 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:55:35 - Orders_Pipeline - INFO - Completado: load_json en 0.0003 segundos
+2025-12-09 03:55:35 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:55:35 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:55:35 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:55:35 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:55:35 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:55:35 - Orders_Pipeline - ERROR - Falló: build_lookup_tables después de 0.0000 segundos. Error: Product.__init__() got an unexpected keyword argument 'category'
+Traceback (most recent call last):
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\log_setup.py", line 81, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\enrich.py", line 37, in build_lookup_tables
+    products_map[p['id']] = Product(
+                            ^^^^^^^^
+TypeError: Product.__init__() got an unexpected keyword argument 'category'
+2025-12-09 03:55:35 - Orders_Pipeline - CRITICAL - El pipeline falló de forma crítica y se detuvo: Product.__init__() got an unexpected keyword argument 'category'
+2025-12-09 03:56:15 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:56:15 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:56:15 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:56:15 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:56:15 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:56:15 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:56:15 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:56:15 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:56:15 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:56:15 - Orders_Pipeline - WARNING - Producto p103 tiene precio 0.0
+2025-12-09 03:56:15 - Orders_Pipeline - WARNING - Producto p104 tiene precio 0.0
+2025-12-09 03:56:15 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0005 segundos
+2025-12-09 03:56:15 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 03:56:15 - Orders_Pipeline - ERROR - Falló: process_orders después de 0.0000 segundos. Error: 'Product' object has no attribute 'category'
+Traceback (most recent call last):
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\log_setup.py", line 81, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\enrich.py", line 88, in process_orders
+    product_category=product.category,
+                     ^^^^^^^^^^^^^^^^
+AttributeError: 'Product' object has no attribute 'category'
+2025-12-09 03:56:15 - Orders_Pipeline - CRITICAL - El pipeline falló de forma crítica y se detuvo: 'Product' object has no attribute 'category'
+2025-12-09 03:56:33 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 03:56:33 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 03:56:33 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:56:33 - Orders_Pipeline - INFO - Completado: load_json en 0.0003 segundos
+2025-12-09 03:56:33 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:56:33 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:56:33 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 03:56:33 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 03:56:33 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 03:56:33 - Orders_Pipeline - ERROR - Falló: build_lookup_tables después de 0.0000 segundos. Error: Product.__init__() got an unexpected keyword argument 'category'
+Traceback (most recent call last):
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\log_setup.py", line 81, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\enrich.py", line 37, in build_lookup_tables
+    products_map[p['id']] = Product(
+                            ^^^^^^^^
+TypeError: Product.__init__() got an unexpected keyword argument 'category'
+2025-12-09 03:56:33 - Orders_Pipeline - CRITICAL - El pipeline falló de forma crítica y se detuvo: Product.__init__() got an unexpected keyword argument 'category'
+2025-12-09 04:06:10 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 04:06:10 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 04:06:10 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:06:10 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:06:10 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:06:10 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:06:10 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:06:10 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:06:10 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 04:06:10 - Orders_Pipeline - WARNING - Producto p103 tiene precio 0.0
+2025-12-09 04:06:10 - Orders_Pipeline - WARNING - Producto p104 tiene precio 0.0
+2025-12-09 04:06:10 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0007 segundos
+2025-12-09 04:06:10 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 04:06:10 - Orders_Pipeline - ERROR - Falló: process_orders después de 0.0000 segundos. Error: EnrichedOrder.__init__() got an unexpected keyword argument 'observations'
+Traceback (most recent call last):
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\log_setup.py", line 81, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\enrich.py", line 82, in process_orders
+    record = EnrichedOrder(
+             ^^^^^^^^^^^^^^
+TypeError: EnrichedOrder.__init__() got an unexpected keyword argument 'observations'
+2025-12-09 04:06:10 - Orders_Pipeline - CRITICAL - El pipeline falló de forma crítica y se detuvo: EnrichedOrder.__init__() got an unexpected keyword argument 'observations'
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 04:07:46 - Orders_Pipeline - WARNING - Producto p103 tiene precio 0.0
+2025-12-09 04:07:46 - Orders_Pipeline - WARNING - Producto p104 tiene precio 0.0
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0009 segundos
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 04:07:46 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 04:07:46 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Completado: process_orders en 0.0006 segundos
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - Completado: save_json en 0.0010 segundos
+2025-12-09 04:07:46 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 04:17:05 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 04:17:05 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 04:17:05 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:17:05 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:17:05 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:17:05 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:17:05 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:17:05 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:17:05 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 04:17:05 - Orders_Pipeline - ERROR - Falló: build_lookup_tables después de 0.0003 segundos. Error: name 'price' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\log_setup.py", line 81, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\src\pipeline\enrich.py", line 32, in build_lookup_tables
+    logger.warning(f"Producto {p['id']} tiene precio {price}")
+                                                      ^^^^^
+NameError: name 'price' is not defined. Did you mean: 'print'?
+2025-12-09 04:17:05 - Orders_Pipeline - CRITICAL - El pipeline falló de forma crítica y se detuvo: name 'price' is not defined
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Completado: load_json en 0.0003 segundos
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 04:17:20 - Orders_Pipeline - WARNING - Producto p103 tiene precio 0.0
+2025-12-09 04:17:20 - Orders_Pipeline - WARNING - Producto p104 tiene precio 0.0
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0005 segundos
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 04:17:20 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 04:17:20 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Completado: process_orders en 0.0002 segundos
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - Completado: save_json en 0.0034 segundos
+2025-12-09 04:17:20 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Completado: load_json en 0.0003 segundos
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Completado: load_json en 0.0003 segundos
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 04:25:44 - Orders_Pipeline - WARNING - Producto p103 tiene precio 0.0
+2025-12-09 04:25:44 - Orders_Pipeline - WARNING - Producto p104 tiene precio 0.0
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0005 segundos
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 04:25:44 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 04:25:44 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Completado: process_orders en 0.0005 segundos
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - Completado: save_json en 0.0009 segundos
+2025-12-09 04:25:44 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Completado: load_json en 0.0003 segundos
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 04:29:27 - Orders_Pipeline - WARNING - Producto p103 tiene precio 0.0
+2025-12-09 04:29:27 - Orders_Pipeline - WARNING - Producto p104 tiene precio 0.0
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0014 segundos
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 04:29:27 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 04:29:27 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Completado: process_orders en 0.0004 segundos
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - Completado: save_json en 0.0010 segundos
+2025-12-09 04:29:27 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - INICIA PIPELINE
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Validando archivos de entrada...
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Completado: load_json en 0.0003 segundos
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Iniciando: load_json
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Completado: load_json en 0.0002 segundos
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Iniciando: build_lookup_tables
+2025-12-09 04:42:27 - Orders_Pipeline - WARNING - Producto p103 tiene precio 0.0
+2025-12-09 04:42:27 - Orders_Pipeline - WARNING - Producto p104 tiene precio 0.0
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Completado: build_lookup_tables en 0.0010 segundos
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Iniciando: process_orders
+2025-12-09 04:42:27 - Orders_Pipeline - WARNING - Orden o502 referencia usuario inexistente: u99
+2025-12-09 04:42:27 - Orders_Pipeline - WARNING - Orden o504 referencia producto inexistente: p999
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Completado: process_orders en 0.0005 segundos
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Iniciando: save_json
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Archivo guardado exitosamente: C:\Users\Asus\OneDrive\OneDrive - Hostería Dos Chorreras\PC_TECNOLOGIA\Desarrollo\orders_enrichment_pipeline\data\output\enriched_orders.json
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - Completado: save_json en 0.0021 segundos
+2025-12-09 04:42:27 - Orders_Pipeline - INFO - FINALIZA PIPELINE EXITOSAMENTE

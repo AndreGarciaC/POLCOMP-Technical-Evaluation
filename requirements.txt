@@ -1,0 +1,17 @@
+# Se requiere Python 3.8 o superior por el uso de:
+# - typing
+# - dataclasses
+# - pathlib
+python>=3.8
+
+# DEPENDENCIAS EXTERNAS
+# Este pipeline está diseñado para funcionar solo con la
+# librería estándar de Python, sin dependencias externas.
+
+# MÓDULOS DE LA LIBRERÍA ESTÁNDAR UTILIZADOS:
+# - json: Lectura/escritura de archivos JSON
+# - logging: Sistema de logging
+# - dataclasses: Estructuras de datos
+# - os/pathlib: Manejo de rutas y directorios
+# - sys: Manejo de argumentos y paths
+# - time: Mediciones de tiempo de ejecución

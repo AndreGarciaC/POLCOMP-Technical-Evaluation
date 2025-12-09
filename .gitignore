@@ -1,0 +1,31 @@
+# .gitignore
+
+##################################
+# 1. Archivos Generados por Python
+##################################
+
+# Carpetas y archivos de caché de Python
+__pycache__/
+*.pyc
+
+##################################
+# 2. Archivos de Datos 
+##################################
+
+# Ignora la carpeta de logs
+/logs/
+
+# Ignora la carpeta de output generada por el pipeline
+/data/output/
+
+##################################
+# 3. Entorno Local/IDE
+##################################
+
+# Archivos de entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos generados por editor
+.vscode/

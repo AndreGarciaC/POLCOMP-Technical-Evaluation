@@ -1,0 +1,7 @@
+[
+  {"id": "u1", "name": "Alice", "email": "alice@example.com", "signup_date": "2023-01-15", "internal_legacy_flag": "X99", "phone": "555-0101"},
+  {"id": "u2", "name": "Bob", "email": "bob@example.com", "signup_date": "2023-02-20", "internal_legacy_flag": "X99", "phone": "555-0202"},
+  {"id": "u3", "name": "Charlie", "email": "charlie@example.com", "signup_date": "2023-03-10", "internal_legacy_flag": "Y00", "phone": null},
+  {"id": "u4", "name": "Diana", "email": "diana@example.com", "signup_date": null, "internal_legacy_flag": "Y00", "phone": "555-0404"},
+  {"id": "u5", "name": "Eve", "email": "eve@example.com", "signup_date": "2024-05-01", "internal_legacy_flag": null, "phone": "555-0505"}
+]
